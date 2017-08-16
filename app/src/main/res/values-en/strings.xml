@@ -7,4 +7,6 @@
     <string name="primer_numero">Frist Number</string>
     <string name="resultado">Resul</string>
     <string name="segundo_numero">secund Number</string>
+    <string name="mensaje_error_dos">type number one</string>
+    <string name="mensaje_error_uno">ype number two</string>
 </resources>
