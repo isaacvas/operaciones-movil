@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Operaciones</string>
+    <string name="borrar">clear</string>
+    <string name="calcular">operator</string>
+    <string name="titulo">TITLE</string>
+    <string name="primer_numero">Frist Number</string>
+    <string name="resultado">Resul</string>
+    <string name="segundo_numero">secund Number</string>
+</resources>
